@@ -1,0 +1,19 @@
+# Dependency Directories
+node_modules/
+
+# Production Build Output
+dist/
+
+# Local Temporary Files & Downloaded Executables (like yt-dlp)
+temp/
+
+# Local Environment Variables
+.env
+.env.local
+
+# OS Metadata & IDE Caches
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
